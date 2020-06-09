@@ -1,0 +1,10 @@
+setup.cfg
+setup.py
+relabel/__init__.py
+relabel/relabel.py
+relabel/setup.py
+relabel.egg-info/PKG-INFO
+relabel.egg-info/SOURCES.txt
+relabel.egg-info/dependency_links.txt
+relabel.egg-info/not-zip-safe
+relabel.egg-info/top_level.txt
