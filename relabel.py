@@ -23,21 +23,3 @@ def change_name():
                 i+=1
 
 
-
-
-
-"""import os
-from os import listdir
-
-def change_name():
-    path = os.getcwd()
-    i = 1
-    for filename in listdir(path):
-        if(variable==""):
-            os.rename(filename,str(i).zfill(1)+filename[-4:])
-            i+=1
-        else:
-            os.rename(filename,variable+ str(i).zfill(1)+filename[-4:])
-            i+=1
-
-variable=input("Enter new file names:\n")"""
