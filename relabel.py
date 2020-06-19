@@ -1,6 +1,6 @@
+import os
+from os import listdir
 def change_name():
-    import os
-    from os import listdir
     variable=input("Enter new file names:\n")
     path = os.getcwd()
     i = 1
