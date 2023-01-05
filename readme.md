@@ -4,15 +4,15 @@
 https://user-images.githubusercontent.com/61319491/123170524-3db01700-d498-11eb-9ecb-a87f1ef0ac93.mp4
 
 
-<h4>Rename your files uniformfly with custom name of your own choice!</h4>
+<h4>Welcome to Relabel, a simple and easy-to-use Python module that allows you to rename your files with a uniform name of your own choice.</h4>
 
-Install the module from your command prompt
+To get started, make sure you have the module installed by running pip install relabel from your command prompt.
 
-    pip install relabel
+Once installed, navigate to the directory where your files are located and run the following code in your Python compiler:
 
-From your python compiler navigate to the directory where your files to be renamed are located and run the following.
 
     import relabel
     relabel.change_name()
-    
-Enter your custom name and you're done!
+You will then be prompted to enter your custom name for the files. Once entered, Relabel will rename all the files in the specified directory with the chosen name.
+
+With Relabel, you can quickly and easily rename multiple files with a uniform name, saving you time and effort. Give it a try today!
